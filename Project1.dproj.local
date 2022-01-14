@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/28 15:45:48.000.001,=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/28 15:50:26.000.426,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailForm.pas</Transaction>
+    <Transaction>2021/12/28 15:50:26.000.427,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailForm.dfm</Transaction>
+    <Transaction>2021/12/28 15:53:02.000.497,=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/28 16:01:05.000.261,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EForm.dfm</Transaction>
+    <Transaction>2021/12/28 16:01:05.000.261,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EForm.pas</Transaction>
+    <Transaction>2021/12/28 16:01:16.000.704,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/29 10:36:53.000.745,=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 10:38:31.000.252,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\DataModule.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/29 10:38:31.000.252,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\DataModule.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 13:41:03.000.326,=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 13:42:21.000.298,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EListForm.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailForm.pas</Transaction>
+    <Transaction>2021/12/29 13:42:21.000.298,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EListForm.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailForm.dfm</Transaction>
+    <Transaction>2021/12/29 13:42:38.000.315,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailsForm.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EForm.pas</Transaction>
+    <Transaction>2021/12/29 13:42:38.000.315,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EDetailsForm.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EForm.dfm</Transaction>
+    <Transaction>2021/12/30 15:47:34.000.415,=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/30 15:47:51.000.758,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EGraphicsForm.pas=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/30 15:47:51.000.758,C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\EGraphicsForm.dfm=C:\Users\gabriel.montes\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,13 @@
+﻿[DBGrid1]
+Coordinates=10,78,64,36
+Visible=True
+
+[DataModule1.FDQuery1]
+Coordinates=10,10,153,58
+
+[DataSource1]
+Coordinates=172,56,89,36
+
+[]
+Coordinates=73,77,91,36
+
